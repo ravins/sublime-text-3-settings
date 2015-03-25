@@ -1,0 +1,27 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AngularJS",
+		"Better CoffeeScript",
+		"BracketHighlighter",
+		"ColorPicker",
+		"DocBlockr",
+		"Goto-CSS-Declaration",
+		"JavaScriptNext - ES6 Syntax",
+		"jQuery",
+		"Local History",
+		"Package Control",
+		"Paste PDF Text Block",
+		"SassBeautify",
+		"SCSS",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-coffee",
+		"SublimeLinter-jshint",
+		"Theme - Soda"
+	]
+}
