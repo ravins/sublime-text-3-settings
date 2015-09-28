@@ -2,6 +2,14 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
+		"HTMLBeautify",
+		"JavaScriptNext - ES6 Syntax",
+		"jQuery",
+		"Paste PDF Text Block",
+		"SublimeCodeIntel",
+		"SublimeLinter-coffee",
+		"SublimeLinter-jshint",
+		"Theme - Soda"
 	],
 	"installed_packages":
 	[
