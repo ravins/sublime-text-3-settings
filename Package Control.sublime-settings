@@ -1,15 +1,18 @@
 {
+	"bootstrapped": true,
 	"in_process_packages":
 	[
 	],
 	"installed_packages":
 	[
-		"AngularJS",
+		"AutoFileName",
 		"Better CoffeeScript",
 		"BracketHighlighter",
 		"ColorPicker",
 		"DocBlockr",
+		"Emmet",
 		"Goto-CSS-Declaration",
+		"HTMLBeautify",
 		"JavaScriptNext - ES6 Syntax",
 		"jQuery",
 		"Local History",
