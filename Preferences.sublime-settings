@@ -2,7 +2,7 @@
 	"caret_style": "smooth",
 	"color_scheme": "Packages/User/SublimeLinter/Sunburst (SL).tmTheme",
 	"drag_text": false,
-	"font_size": 10,
+	"font_size": 9,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages": [],
